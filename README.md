@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning, Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/koushik2k3](https://github.com/koushik2k3)
-
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **koushikkp2003@gmail.com**
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/kousa2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kousa2k3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koushik kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik kp" height="30" width="40" /></a>
-<a href="https://hashnode.com/@koushikkp2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@koushikkp2003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@koushikkp2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@koushikkp2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/koushik2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koushik2k3" height="30" width="40" /></a>
 </p>
