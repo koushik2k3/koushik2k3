@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik2k3" alt="koushik2k3" /></a> </p>
-
 - 🔭 I’m currently working on **my first video game**
 
 - 🌱 I’m currently learning **Reinforcement Learning, Generative AI**
