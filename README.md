@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
 
-- 🔭 I’m currently working on **my first video game**
-
 - 🌱 I’m currently learning **Reinforcement Learning, Generative AI**
 
 - 💬 Ask me about **python**
