@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik2k3" alt="koushik2k3" /></a> </p>
 
-- 🔭 I’m currently working on **my first video game**
-
 - 🌱 I’m currently learning **Reinforcement Learning and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/koushik2k3](https://github.com/koushik2k3)
